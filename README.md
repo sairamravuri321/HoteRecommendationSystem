@@ -8,6 +8,10 @@ Motivated by the importance of these situations, we decided to work on the task 
 The aim of this hotel recommendation task is to predict and recommended hotel clusters to a user that he/she is more likely to book given hundred distinct clusters
 
 
+
+
+
+
 Technologies used : Python, Sklearn, NumPy, Pandas, Matplotlib
 
 • Led a project on Hotel Recommendation system using machine learning techniques
