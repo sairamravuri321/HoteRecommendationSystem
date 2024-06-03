@@ -1,5 +1,5 @@
 # HoteRecommendationSystem
-A simple Hotel recommendation system using Ai/Ml concepts.
+A simple Hotel recommendation system using AI/Ml concepts.
 
 Abstract :
 
